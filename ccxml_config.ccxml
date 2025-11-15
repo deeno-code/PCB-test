@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<configurations>
+<configurations xmlns="http://www.ti.com/ccs/configurations">
     <configuration>
-        <device>UNKNOWN_MCU</device>
-        <connection>JTAG</connection>
-        <interface>SWD</interface>
+        <connection id="XDS110" />
+        <device id="TM4C129_DUMMY" />
     </configuration>
 </configurations>
+
 
